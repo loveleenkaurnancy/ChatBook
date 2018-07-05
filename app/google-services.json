@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "414192068906",
+    "firebase_url": "https://chatbook-74994.firebaseio.com",
+    "project_id": "chatbook-74994",
+    "storage_bucket": "chatbook-74994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414192068906:android:a203ba87b029ba24",
+        "android_client_info": {
+          "package_name": "com.nancy.chatbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414192068906-i6uvqpctp8i4is40geavo8o2e7q0o6h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nancy.chatbook",
+            "certificate_hash": "25e88d82c8a5f851409d4292292eb981311004c6"
+          }
+        },
+        {
+          "client_id": "414192068906-5eri41er0rmshi4iompuqhkcd2d2sg65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9tdCm8b5JuFlYd4b4ditpl_68HA9ABZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414192068906-5eri41er0rmshi4iompuqhkcd2d2sg65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
